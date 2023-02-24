@@ -1,0 +1,16 @@
+.cont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+}
+button{
+    margin: 3px;
+    background-color: #2e2e09;
+    color: wheat;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-style: italic;
+}
